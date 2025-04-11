@@ -1,7 +1,6 @@
 [book]
 authors = ["Cody Duncan graphicsprogrammingwiki@codyduncan.net"]
 language = "en"
-multilingual = false
 src = "src"
 title = "\"r/GraphicsProgramming Wiki\""
 
